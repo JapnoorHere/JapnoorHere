@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://live.staticflickr.com/65535/52953025665_eb40942d15_o.png"/>
 
-<p align="left"> <a href="https://twitter.com/japnoor53317647" target="blank"><img src="https://img.shields.io/twitter/follow/japnoor53317647?logo=twitter&style=for-the-badge" alt="japnoor53317647" /></a> </p>
+<pre><p align="left"> <a href="https://www.youtube.com/c/droid bytes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width ="30" height="30"alt="japnoor53317647" /></a> Subscribe Droid Bytes </p></pre>
 
 - 🔭 I’m currently working on [Chatify](https://github.com/Japnoor2104/Chatify)
 
