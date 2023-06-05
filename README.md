@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://live.staticflickr.com/65535/52953025665_eb40942d15_o.png"/>
 
-<p align="left"> <a href="https://twitter.com/japnoor53317647" target="blank"><img src="https://img.shields.io/twitter/follow/japnoor53317647?logo=twitter&style=for-the-badge" alt="japnoor53317647" /></a> </p>
+<p align="left"> <a href="https://twitter.com/2104japnoor" target="blank"><img src="https://img.shields.io/twitter/follow/2104japnoor?logo=twitter&style=for-the-badge" alt="2104japnoor" /></a> </p>
 
 - 🔭 I’m currently working on [Chatify](https://github.com/Japnoor2104/Chatify)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/japnoor53317647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="japnoor53317647" height="30" width="40" /></a>
+<a href="https://twitter.com/2104japnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2104japnoor" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/japnoor-singh-6009a0245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japnoor singh" height="30" width="40" /></a>
 <a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="japnoor.here" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DroidBytes11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="droid bytes" height="30" width="40" /></a>
