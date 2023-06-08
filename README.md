@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android Using Kotlin**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, Kotlin , Java**
 
 - 📫 To reach me : **sjapnoor11@gmail.com**
 
