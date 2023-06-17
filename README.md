@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://japnoorhere.github.io/myportfolio/" target="blank"> <img align="center" src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/6d7ff05c-8a1b-4bf8-bdc5-af9767897867" alt="JapnoorHere" height="45" width="40" /> </a>
+<a href="https://japnoorhere.github.io/myportfolio/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JapnoorHere" height="45" width="40" /> </a>
 <a href="https://www.linkedin.com/in/japnoor-singh-6009a0245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japnoor singh" height="30" width="40" /></a>
 <a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="japnoor.here" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DroidBytes11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="droid bytes" height="30" width="40" /></a>
