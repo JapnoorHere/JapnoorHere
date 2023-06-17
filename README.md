@@ -1,9 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Japnoor Singh</h1>
 <h3 align="center">A passionate Android developer from Punjab, India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japnoor2104&label=Profile%20views&color=0e75b6&style=flat" alt="japnoor2104" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://live.staticflickr.com/65535/52953025665_eb40942d15_o.png"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/dec388dd-da50-45f0-b43c-0e87e9da4086"/>
 
 <p align="left"> <a href="https://twitter.com/2104japnoor" target="blank"><img src="https://img.shields.io/twitter/follow/2104japnoor?logo=twitter&style=for-the-badge" alt="2104japnoor" /></a> </p>
 
