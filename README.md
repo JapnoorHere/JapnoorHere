@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/2104japnoor" target="blank"><img src="https://img.shields.io/twitter/follow/2104japnoor?logo=twitter&style=for-the-badge" alt="2104japnoor" /></a> </p>
 
-- 🔭 I’m currently working on [Chatify](https://github.com/Japnoor2104/Chatify)
+- 🔭 I’m currently working on <b>Soul Serenity app</b>
 
 - 🌱 I’m currently learning **Android Using Kotlin**
 
