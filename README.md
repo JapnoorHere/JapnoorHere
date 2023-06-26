@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![1_zy5IG2inEQSqeWyPJ7vo-g](https://github.com/JapnoorHere/JapnoorHere/assets/109523523/27e67fb4-9367-4d97-aabf-02dafcfd4700)
 <h1 align="center">Hi 👋, I'm Japnoor Singh</h1>
 <h3 align="center">A passionate Android developer from Punjab, India</h3>
 
