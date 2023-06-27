@@ -1,4 +1,4 @@
-![1_zy5IG2inEQSqeWyPJ7vo-g](https://github.com/JapnoorHere/JapnoorHere/assets/109523523/27e67fb4-9367-4d97-aabf-02dafcfd4700)
+ ![1_zy5IG2inEQSqeWyPJ7vo-g](https://github.com/JapnoorHere/JapnoorHere/assets/109523523/27e67fb4-9367-4d97-aabf-02dafcfd4700)
 <h1 align="center">Hi 👋, I'm Japnoor Singh</h1>
 <h3 align="center">A passionate Android developer from Punjab, India</h3>
 
@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/dec388dd-da50-45f0-b43c-0e87e9da4086"/>
 
-<p align="left"> <a href="https://twitter.com/2104japnoor" target="blank"><img src="https://img.shields.io/twitter/follow/2104japnoor?logo=twitter&style=for-the-badge" alt="2104japnoor" /></a> </p>
+<p align="left"> <a href="https://instagram.com/japnoor.here" target="blank"><img src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/2034a8d6-9182-42bc-8b78-e7ecd85e119c" height= "30" width = "200" alt="2104japnoor" /></a> </p>
 
 - 🔭 I’m currently working on <b>Soul Serenity app</b>
 
@@ -27,6 +27,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> 
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JapnoorHere%20&theme=github-light)](https://git.io/streak-stats)
