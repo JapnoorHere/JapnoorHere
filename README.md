@@ -6,8 +6,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/dec388dd-da50-45f0-b43c-0e87e9da4086"/>
 
-<p align="left"> <a href="https://instagram.com/japnoor.here" target="blank"><img src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/2034a8d6-9182-42bc-8b78-e7ecd85e119c" height= "30" width = "200" alt="2104japnoor" /></a> </p>
-
 - 🔭 I’m currently working on <b>Soul Serenity app</b>
 
 - 🌱 I’m currently learning **Android Using Kotlin**
