@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japnoor2104&label=Profile%20views&color=0e75b6&style=flat" alt="japnoor2104" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/dec388dd-da50-45f0-b43c-0e87e9da4086"/>
+<a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instaFollow.png" alt="japnoor.here" height="30" width="200" /></a>
+
+<img align="right" alt="Coding" width="450" src="https://github.com/JapnoorHere/Icons/blob/main/user.png"/>
 
 - 🔭 I’m currently working on <b>Soul Serenity app</b>
 
@@ -18,21 +20,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/japnoor-singh-6009a0245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japnoor singh" height="30" width="40" /></a>
-<a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="japnoor.here" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@DroidBytes11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="droid bytes" height="30" width="40" /></a>
-<a href="https://twitter.com/2104japnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2104japnoor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/japnoor-singh-6009a0245/" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/linkedin.png" alt="japnoor singh" height="40" width="40" /></a>
+<a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instagram.png" alt="japnoor.here" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@DroidBytes11" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/youtube.png" alt="droid bytes" height="40" width="40" /></a>
+<a href="https://twitter.com/2104japnoor" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/twitter.png" alt="2104japnoor" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/c.png" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/java.png" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/figma.png" alt="figma" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/firebase.png" alt="firebase" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/kotlin.png" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/android.png" alt="android" width="40" height="40"/> </a> 
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JapnoorHere%20&theme=github-light)](https://git.io/streak-stats)
