@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japnoor2104&label=Profile%20views&color=0e75b6&style=flat" alt="japnoor2104" /> </p>
 
-<a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instaFollow.png" alt="japnoor.here" height="30" width="200" /></a>
+<a href="https://instagram.com/japnoor.here" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instaFollow.png" alt="japnoor.here" height="30" width="200" /></a>
 
 <img align="right" alt="Coding" width="450" src="https://github.com/JapnoorHere/Icons/blob/main/user.png"/>
 
@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/japnoor-singh-6009a0245/" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/linkedin.png" alt="japnoor singh" height="40" width="40" /></a>
-<a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instagram.png" alt="japnoor.here" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@DroidBytes11" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/youtube.png" alt="droid bytes" height="40" width="40" /></a>
-<a href="https://twitter.com/2104japnoor" target="blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/twitter.png" alt="2104japnoor" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/japnoor-singh-6009a0245/" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/linkedin.png" alt="japnoor singh" height="40" width="40" /></a>
+<a href="https://instagram.com/japnoor.here" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instagram.png" alt="japnoor.here" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@DroidBytes11" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/youtube.png" alt="droid bytes" height="40" width="40" /></a>
+<a href="https://twitter.com/2104japnoor" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/twitter.png" alt="2104japnoor" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
