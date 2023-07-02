@@ -37,3 +37,4 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/android.png" alt="android" width="40" height="40"/> </a> 
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JapnoorHere%20&theme=github-light)](https://git.io/streak-stats)
