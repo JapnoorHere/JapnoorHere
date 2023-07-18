@@ -29,7 +29,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/c.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/java.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/figma.png" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/firebase.png" alt="firebase" width="40" height="40"/> </a>
