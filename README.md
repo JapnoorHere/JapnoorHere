@@ -24,6 +24,9 @@
 <a href="https://instagram.com/japnoor.here" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instagram.png" alt="japnoor.here" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@DroidBytes11" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/youtube.png" alt="droid bytes" height="40" width="40" /></a>
 <a href="https://twitter.com/2104japnoor" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/twitter.png" alt="2104japnoor" height="40" width="40" /></a>
+<a href="https://japnoorhere.github.io/myportfolio/" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/portfolio.png" alt="Portfolio" height="40" width="40" /></a>
+
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
