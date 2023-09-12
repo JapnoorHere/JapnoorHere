@@ -36,6 +36,5 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/kotlin.png" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/android.png" alt="android" width="40" height="40"/> </a> 
 </p>
-<img src="https://raw.githubusercontent.com/JapnoorHere/JapnoorHere/output/snake.svg" alt="Snake animation" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JapnoorHere&theme=github-light&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JapnoorHere&theme=whatsapp-light&hide_current_streak=true)](https://git.io/streak-stats)
