@@ -25,8 +25,6 @@
 <a href="https://www.youtube.com/@DroidBytes11" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/youtube.png" alt="droid bytes" height="40" width="40" /></a>
 <a href="https://twitter.com/2104japnoor" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/twitter.png" alt="2104japnoor" height="40" width="40" /></a>
 <a href="https://japnoorhere.github.io/myportfolio/" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/portfolio.png" alt="Portfolio" height="40" width="40" /></a>
-
- 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,5 +36,6 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/kotlin.png" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JapnoorHere/Icons/blob/main/android.png" alt="android" width="40" height="40"/> </a> 
 </p>
+<img src="https://raw.githubusercontent.com/JapnoorHere/JapnoorHere/output/snake.svg" alt="Snake animation" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JapnoorHere&theme=github-light&hide_current_streak=true)](https://git.io/streak-stats)
