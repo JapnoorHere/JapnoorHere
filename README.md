@@ -6,7 +6,7 @@
 
 <a href="https://instagram.com/japnoor.here" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instaFollow.png" alt="japnoor.here" height="30" width="200" /></a>
 
-<img align="right" alt="Coding" width="450" src="https://github.com/JapnoorHere/Icons/blob/main/user.png"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/JapnoorHere/Icons/blob/main/user.png"/>
 
 - 🔭 I’m currently learning <b>Web Development</b>
 
