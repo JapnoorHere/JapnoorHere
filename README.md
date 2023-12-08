@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://github.com/JapnoorHere/Icons/blob/main/user.png"/>
 
-- 🔭 I’m currently working on <b>Soul Serenity app</b>
+- 🔭 I’m currently learning on <b>Web Development</b>
 
 - 🌱 I’m currently learning **Android Using Kotlin**
 
