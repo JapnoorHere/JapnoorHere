@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning <b>Web Development</b>
 
-- 🌱 I’m currently learning **Android Using Kotlin**
+<!-- 🌱 I’m currently learning **Android Using Kotlin**-->
 
 - 💬 Ask me about **Android, Kotlin , Java**
 
