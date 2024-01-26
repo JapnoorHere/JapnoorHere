@@ -1,5 +1,3 @@
-
-<img src="https://github.com/JapnoorHere/JapnoorHere/assets/109523523/306b1051-32dd-4e97-8c54-330eff962221" width="100%">
 <h1 align="center">Hi 👋, I'm Japnoor Singh</h1>
 <h3 align="center">A passionate Android developer from Punjab, India</h3>
 
