@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://japnoorhere.github.io/myportfolio/)
 
-- 💬 Ask me about **Android Kotlin, Firebase, Figma, HTML, CSS, JS**
+- 💬 Ask me about **Android Kotlin, Firebase, Figma, HTML, CSS, JS, Node JS, EJS**
 
 - 📫 How to reach me **sjapnoor11@gmail.com**
 
