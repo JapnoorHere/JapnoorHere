@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/JapnoorHere/Icons/blob/main/user.png"/>
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on [Madhav Sewa Society](https://github.com/JapnoorHere/MadhavSewaSociety)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://japnoorhere.github.io/myportfolio/)
 
