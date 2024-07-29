@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://japnoorportfolio.netlify.app/)
 
-- 💬 Ask me about **Android Kotlin, MERN Stack, Firebase, Figma
+- 💬 Ask me about **Android Kotlin, MERN Stack, Firebase, Figma**
 
 - 📫 How to reach me **sjapnoor11@gmail.com**
 
