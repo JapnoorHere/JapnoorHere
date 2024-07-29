@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently working on [Madhav Sewa Society](https://github.com/JapnoorHere/MadhavSewaSociety)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://japnoorhere.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://japnoorportfolio.netlify.app/)
 
-- 💬 Ask me about **Android Kotlin, Firebase, Figma, HTML, CSS, JS, Node JS, EJS**
+- 💬 Ask me about **Android Kotlin, MERN Stack, Firebase, Figma
 
 - 📫 How to reach me **sjapnoor11@gmail.com**
 
