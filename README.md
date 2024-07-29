@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Android Kotlin, MERN Stack, Firebase, Figma**
 
-- 📫 How to reach me **sjapnoor11@gmail.com**
+- 📫 Reach me on **sjapnoor11@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17OBud8MM30JkNHI9sLT9louHrzUJZXH4/view)
 
