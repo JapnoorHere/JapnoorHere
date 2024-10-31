@@ -1,34 +1,69 @@
-<h1 align="center">Hi 👋, I'm Japnoor Singh</h1>
-<h3 align="center">A passionate Software developer from Punjab, India</h3>
+<h1 align="center">Hello there! 👋 I'm Japnoor Singh</h1>
+<h3 align="center">Software Developer | MERN Stack Enthusiast | Passionate about Android & Design</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=japnoor2104&label=Profile%20views&color=0e75b6&style=flat" alt="japnoor2104" /> </p>
+---
 
-<a href="https://instagram.com/japnoor.here" target="_blank"><img align="center" src="https://github.com/JapnoorHere/Icons/blob/main/instaFollow.png" alt="japnoor.here" height="30" width="200" /></a>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/JapnoorHere/Icons/blob/main/user.png"/>
-
-
-- 🌱 I’m currently working on [Madhav Sewa Society](https://github.com/JapnoorHere/MadhavSewaSociety)
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://japnoorportfolio.netlify.app/)
-
-- 💬 Ask me about **Android Kotlin, MERN Stack, Firebase, Figma**
-
-- 📫 Reach me on **sjapnoor11@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17OBud8MM30JkNHI9sLT9louHrzUJZXH4/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/japnoor_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="japnoor_here" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/japnoor-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japnoor-singh" height="30" width="40" /></a>
-<a href="https://instagram.com/japnoor.here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="japnoor.here" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/droidbytes11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="droidbytes11" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=japnoor2104&label=Visitors&color=2D76B6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://instagram.com/japnoor.here" target="_blank"><img src="https://github.com/JapnoorHere/Icons/blob/main/instaFollow.png" alt="Follow me on Instagram" height="30" width="200"/></a>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=japnoorhere&show_icons=true&locale=en&layout=compact" alt="japnoorhere" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japnoorhere&" alt="japnoorhere" /></p>
+<img align="right" src="https://github.com/JapnoorHere/Icons/blob/main/user.png" alt="Coding Illustration" width="350"/>
+
+### 🌟 About Me
+
+- 🛠 Currently collaborating with **[Madhav Sewa Society](https://github.com/JapnoorHere/MadhavSewaSociety)**.
+- 📁 Explore my work: [Portfolio](https://japnoorportfolio.netlify.app/)
+- 🔍 Expertise in **Android Kotlin, MERN Stack, Firebase, and Figma**.
+- 📧 Reach me at **sjapnoor11@gmail.com**
+- 📄 More about my professional journey: [Resume](https://drive.google.com/file/d/17OBud8MM30JkNHI9sLT9louHrzUJZXH4/view)
+
+---
+
+### 🔗 Connect with Me
+<p>
+  <a href="https://twitter.com/japnoor_here" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" width="30"/></a>
+  <a href="https://linkedin.com/in/japnoor-singh" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/></a>
+  <a href="https://instagram.com/japnoor.here" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="30" width="30"/></a>
+  <a href="https://www.youtube.com/c/droidbytes11" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30"/></a>
+</p>
+
+---
+
+### 🛠 Skills & Tools
+
+<p align="center"> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" width="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="50" width="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node JS" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/512/express-js.png" alt="Express" height="50" width="50"/>
+  <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="50" width="50"/>
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=japnoorhere&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=japnoorhere" alt="GitHub Streak" />
+</div>
+
+
+Thanks for stopping by! 😊 Feel free to connect, collaborate, and explore. Let's build something amazing together!
