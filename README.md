@@ -50,6 +50,7 @@
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node JS" height="50" width="50"/>
   <img src="https://img.icons8.com/color/512/express-js.png" alt="Express" height="50" width="50"/>
   <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo" height="50" width="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="Mongo" height="50" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="50" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="50" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="50" width="50"/>
