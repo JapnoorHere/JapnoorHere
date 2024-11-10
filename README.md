@@ -17,7 +17,7 @@
 
 ### 🌟 About Me
 
-- 🛠 Currently collaborating with **[Madhav Sewa Society](https://github.com/JapnoorHere/MadhavSewaSociety)**.
+- 🛠 Currently working on **[Madhav Sewa Society](https://github.com/JapnoorHere/MadhavSewaSociety)** project.
 - 📁 Explore my work: [Portfolio](https://japnoorportfolio.netlify.app/)
 - 🔍 Expertise in **Android Kotlin, MERN Stack, Firebase, and Figma**.
 - 📧 Reach me at **sjapnoor11@gmail.com**
