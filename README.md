@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Japnoor Singh</h1>
-<h3 align="center">Software Developer | MERN Stack Enthusiast | Passionate about Android & Design</h3>
+<h3 align="center">Software Developer | MERN Stack Enthusiast | Passionate about Android Development</h3>
 
 ---
 
