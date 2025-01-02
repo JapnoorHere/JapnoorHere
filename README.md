@@ -17,7 +17,7 @@
 
 ### 🌟 About Me
 
-- 🛠 Currently working on **[Madhav Sewa Society](https://github.com/JapnoorHere/MadhavSewaSociety)** project.
+- 🛠 Currently working on **[AI Recipe Web App](https://github.com/JapnoorHere/ai-recipe-web-app)** project.
 - 📁 Explore my work: [Portfolio](https://japnoorportfolio.netlify.app/)
 - 🔍 Expertise in **Android Kotlin, MERN Stack, Firebase, and Figma**.
 - 📧 Reach me at **sjapnoor11@gmail.com**
