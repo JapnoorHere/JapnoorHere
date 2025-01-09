@@ -21,7 +21,7 @@
 - 📁 Explore my work: [Portfolio](https://japnoorportfolio.netlify.app/)
 - 🔍 Expertise in **Android Kotlin, MERN Stack, Firebase, and Figma**.
 - 📧 Reach me at **sjapnoor11@gmail.com**
-- 📄 More about my professional journey: [Resume](https://drive.google.com/file/d/17OBud8MM30JkNHI9sLT9louHrzUJZXH4/view)
+- 📄 More about my professional journey: [Resume](https://drive.google.com/file/d/1cTnuEkzI9TYOCAKNd1Q3mIylFFF5Mocj/view?usp=drive_link)
 
 ---
 
