@@ -17,7 +17,7 @@
 
 ### 🌟 About Me
 
-- 🛠 Currently working on **[AI Recipe Web App](https://github.com/JapnoorHere/ai-recipe-web-app)** project.
+- 🛠 Currently working on **[WhipUp AI](https://github.com/JapnoorHere/whipup-ai)** project.
 - 📁 Explore my work: [Portfolio](https://japnoor-singh.vercel.app/)
 - 🔍 Expertise in **Android Kotlin, MERN Stack, Firebase, and Figma**.
 - 📧 Reach me at **sjapnoor11@gmail.com**
